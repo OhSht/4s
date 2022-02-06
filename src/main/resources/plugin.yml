@@ -1,0 +1,9 @@
+name: 4Squares
+version: '${project.version}'
+main: main.java
+api-version: 1.18
+prefix: >
+load: STARTUP
+authors: [ barbar ]
+description: Test Plugin dscp not needed.
+website: null
